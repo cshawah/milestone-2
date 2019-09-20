@@ -1,0 +1,15 @@
+---
+title: "Milestone 2"
+author: "Chloe Shawah"
+date: "9/20/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Project 1:
+
+
+Project 2:
