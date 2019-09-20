@@ -9,7 +9,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Project 1:
+Project 1: 2020 Dems on Twitter
 
+This project involved extensive data collection because the author, Tanner Gildea, had to use Twitter's API to collect data on the tweeting patterns of 12 different 2020 candidates. This project has three main sections, "Summary Statistics," "Sentiment Analysis," and "Individual Key Words." The first, "Summary Statistics," allows readers to look at the volume and distribution of each candidate's tweets in faceted histograms, and even allows you reader to change the number of bins in the histograms. I think this is a very cool feature, and the faceted histograms are easy to look at and interpret. There is also a table including information about average number of retweets, favorites, etc., which provide some context to the effectiveness of the tweets in addition to the volume. The next section looked at the sentiment of the tweets using AFINN, NRC, and BING lexicons for sentiment analysis. I thought this was a really interesting section because it provided some insight about the content of the tweets, and it added a higher level of complexity to the project. The final section, "Key Words" allows you to search for specific words and see how many times each candidate mentions them and what other words they use when discussing it. I thought this project had lots of pros, including its 3-section structure, complexity, and clear visualizations. I honestly can't find any cons for this project... I thought it was great! If I had to be really nit-picky, I would say that I would have wanted to see the "emotions conveyed" expressed in percents of total tweets by a candidate so I can see the different breakdowns of emotions in a normalized way.
 
 Project 2:
